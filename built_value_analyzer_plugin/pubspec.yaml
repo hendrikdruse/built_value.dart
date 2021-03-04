@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.3.0 <3.0.0'
 
 dependencies:
-  analyzer: '>=0.39.0 <=0.41.0'
+  analyzer: '>=0.39.0 <=0.41.2'
   analyzer_plugin: '>=0.1.0 <0.3.0'
   built_value: '>=7.0.0 <7.1.0'
   built_value_generator: ^8.0.0
